@@ -10,7 +10,7 @@ My goals are:
   Learn Python - in progress
   Learn Javascript - in progress
 
-Books i am currently readin:
+Books I am currently readin:
   GitHub for Dummies
   Web Programming with HTML5, CSS and Javascript
   Eloquent Javascript
