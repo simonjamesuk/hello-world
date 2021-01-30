@@ -15,4 +15,4 @@ Books I am currently reading:
   Web Programming with HTML5, CSS and Javascript
   Eloquent Javascript
 
-Stuff more stuff
+Stuff more stuff etc.
