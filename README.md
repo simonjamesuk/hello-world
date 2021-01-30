@@ -9,3 +9,8 @@ My goals are:
   Learn Bootstrap - in progress
   Learn Python - in progress
   Learn Javascript - in progress
+
+Books i am currently readin:
+  GitHub for Dummies
+  Web Programming with HTML5, CSS and Javascript
+  Eloquent Javascript
